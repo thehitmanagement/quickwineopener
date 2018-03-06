@@ -2630,103 +2630,6 @@ body {
 .cid-qL3tRcfw0u .btn {
   margin: 0 0 .5rem 0;
 }
-.cid-qLu0s9jDZt {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qLu0s9jDZt .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qLu0s9jDZt .formoid {
-  margin: auto;
-}
-.cid-qLu0s9jDZt .form-control {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-.cid-qLu0s9jDZt a.btn {
-  flex: 0 0 auto;
-  -webkit-flex: 0 0 auto;
-}
-.cid-qLu0s9jDZt .input-group-btn {
-  align-self: center;
-  -webkit-align-self: center;
-  z-index: 3;
-}
-.cid-qLu0s9jDZt .input-group-btn .btn {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  border-top-right-radius: 3px;
-  border-bottom-right-radius: 3px;
-}
-.cid-qLu0s9jDZt a:not([href]):not([tabindex]) {
-  color: #fff;
-}
-.cid-qLu0s9jDZt a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-qLu0s9jDZt .mbr-subscribe .input-group-btn {
-  display: inline-block;
-}
-.cid-qLu0s9jDZt .mbr-subscribe .input-group-btn button,
-.cid-qLu0s9jDZt .mbr-subscribe .input-group-btn a {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-}
-@media (max-width: 350px) {
-  .cid-qLu0s9jDZt .mbr-subscribe {
-    flex-direction: column;
-    -webkit-flex-direction: column;
-  }
-  .cid-qLu0s9jDZt input[type="email"] {
-    width: 100%;
-    margin-bottom: 2px;
-  }
-  .cid-qLu0s9jDZt .input-group-btn {
-    width: 100%;
-  }
-  .cid-qLu0s9jDZt .input-group-btn .btn {
-    border-radius: 3px;
-  }
-}
-@media (max-width: 768px) {
-  .cid-qLu0s9jDZt .input-group-btn a.btn {
-    width: 100%;
-  }
-  .cid-qLu0s9jDZt .input-group-btn {
-    width: calc(92%);
-  }
-  .cid-qLu0s9jDZt .input-group-btn button[type="submit"] {
-    width: 100%;
-  }
-  .cid-qLu0s9jDZt .input-group {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    margin: auto;
-    max-width: 300px;
-  }
-  .cid-qLu0s9jDZt .input-group input[type="email"] {
-    width: 100%;
-    margin-bottom: 3px;
-  }
-  .cid-qLu0s9jDZt .input-group span {
-    display: inline;
-    padding-left: 0;
-    padding-right: 0;
-  }
-  .cid-qLu0s9jDZt .input-group-btn button,
-  .cid-qLu0s9jDZt .input-group-btn a {
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-  }
-}
-@media (min-width: 769px) {
-  .cid-qLu0s9jDZt .mbr-subscribe > * {
-    margin: 0 0.5rem;
-  }
-}
 .cid-qL3tsKQY3M {
   padding-top: 30px;
   padding-bottom: 15px;
@@ -3135,9 +3038,6 @@ body {
 .cid-qLu0cBzmuV .nav-link:hover,
 .cid-qLu0cBzmuV .dropdown-item:hover {
   color: #c1c1c1 !important;
-}
-.cid-qLu0cCNKJ8 {
-  background-image: url("../../../assets/images/fres-1-2000x1315.jpg");
 }
 .cid-qLu0cDV2Bb {
   padding-top: 60px;
